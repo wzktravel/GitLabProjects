@@ -19,6 +19,9 @@ To run it in IDE and debug
 
 `gradle runIdea`
 
+### TODO
+[] merge时增加参数，如 --no-ff
+
 
 ### Contributing
 Everybody is welcome to contribute to this project.
